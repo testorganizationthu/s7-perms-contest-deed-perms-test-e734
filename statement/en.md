@@ -1,13 +1,7 @@
 {{ self.title() }}
 
 {{ s('description') }}
-Solve it.
-
-{{ s('input format') }}
-N
-
-{{ s('output format') }}
-Answer
+Updated statement.
 
 {{ s('sample', 1) }}
 {{ self.sample_text() }}
